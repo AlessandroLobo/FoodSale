@@ -4,7 +4,7 @@ namespace LanchesMac
     {
         public static void Main(string[] args)
         {
-            //criamos o m todo de extens o CreateAdminRole
+
             CreateHostBuilder(args)
                .Build()
                //.CreateAdminRole()
