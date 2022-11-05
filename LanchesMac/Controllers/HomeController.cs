@@ -8,6 +8,8 @@ namespace LanchesMac.Controllers
     {
         public IActionResult Index()
         {
+            //Só recupera uma vez
+            TempData["Nome"] = "Alessandro Lobo";
             return View();
         }
         public IActionResult Demo()
