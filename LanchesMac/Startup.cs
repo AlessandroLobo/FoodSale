@@ -25,6 +25,7 @@ namespace LanchesMac
             // Criando instancia da injeção de dependência
             services.AddTransient<ILancheRepository, LancheRepository>();
             services.AddTransient<ICategoriaRepository, CategoriaRepository>();
+            services.AddTransient<IPedidoRepository, PedidoRepository>();
             // Relacionado ao cash
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
