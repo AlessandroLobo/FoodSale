@@ -3,6 +3,7 @@ using LanchesMac.Models;
 using LanchesMac.Repositories;
 using LanchesMac.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.FileSystemGlobbing.Internal.Patterns;
 
 namespace LanchesMac
 {
@@ -61,6 +62,11 @@ namespace LanchesMac
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapControllerRoute(
+                    name: "categoriaFiltro",
+                    pattern: "Lanche/{action}/{categoria?}",
+                    defaults: new { controller = "Lanche", Action = "List" });
+
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
