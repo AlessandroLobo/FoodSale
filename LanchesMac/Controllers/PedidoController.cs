@@ -24,7 +24,47 @@ namespace LanchesMac.Controllers
         [HttpPost]
         public IActionResult Checkout(Pedido pedido)
         {
-            return View();
+            int totalItensPedido = 0;
+            decimal precoTotalPedido = 0.0m;
+
+            // Obtém os itens do carrinho de compra cliente
+            List<CarrinhoCompraItem> items = _carrinhoCompra.GetCarrinhoCompraItens();
+            _carrinhoCompra.CarrinhoCompraItems = items;
+
+            //verifica se existem itens de pedido
+            if (_carrinhoCompra.CarrinhoCompraItems.Count == 0)
+            {
+                ModelState.AddModelError("", "Seu carrinho esta vazio, que tal incluir um lanche...");
+            }
+
+            // Calcula o total de itens e o total do pedido
+            foreach (var item in items)
+            {
+                totalItensPedido += item.Quantidade;
+                precoTotalPedido += (item.Lanche.Preco * item.Quantidade);
+            }
+
+            // Atribui os valores obtidos ao pedido
+            pedido.TotalItensPedido = totalItensPedido;
+            pedido.PedidoTotal = precoTotalPedido;
+
+            // Valida os dados do pedido
+            if (ModelState.IsValid)
+            {
+                // Cria o pedido e os detalhes
+                _pedidoRepository.CriarPedido(pedido);
+
+                // Define mensagem ao cliente
+                ViewBag.CheckoutCompletoMenssagem = "Obrigado pelo seu pedido :)";
+                ViewBag.TotalPedido = _carrinhoCompra.GetCarrinhoCompraTotal();
+
+                // Limpa o carrinho do cliente
+                _carrinhoCompra.LimparCarrinho();
+
+                // Exibe a view com dados do cliente e do pedido
+                return View("~/Views/Pedido/CheckoutCompleto.cshtml", pedido);
+            }
+            return View(pedido);
         }
     }
 }
