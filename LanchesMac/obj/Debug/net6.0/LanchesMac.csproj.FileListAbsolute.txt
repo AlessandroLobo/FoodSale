@@ -262,3 +262,13 @@ F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac\bin\De
 F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac\obj\Debug\net6.0\staticwebassets\msbuild.LanchesMac.Microsoft.AspNetCore.StaticWebAssets.props
+F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac\obj\Debug\net6.0\staticwebassets\msbuild.build.LanchesMac.props
+F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LanchesMac.props
+F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LanchesMac.props
+F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac\obj\Debug\net6.0\staticwebassets.pack.json
+F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
