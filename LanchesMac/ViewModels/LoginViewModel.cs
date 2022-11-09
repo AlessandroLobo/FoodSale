@@ -8,7 +8,7 @@ namespace LanchesMac.ViewModels
         [Display(Name = "Usuário")]
         public string UserName { get; set; }
 
-        [Required(ErrorMessage = "Informe o nome")]
+        [Required(ErrorMessage = "Informe o senha")]
         [DataType(DataType.Password)]
         [Display(Name = "Senha")]
         public string Password { get; set; }

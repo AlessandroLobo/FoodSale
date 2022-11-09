@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac
 build_property._RazorSourceGeneratorDebug = 
 
+[F:/PROGRAMAÇÃO/Curso Udemy/Curso_ASP.NET6_CoreMVC/LanchesMac/LanchesMac/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/PROGRAMAÇÃO/Curso Udemy/Curso_ASP.NET6_CoreMVC/LanchesMac/LanchesMac/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/PROGRAMAÇÃO/Curso Udemy/Curso_ASP.NET6_CoreMVC/LanchesMac/LanchesMac/Views/CarrinhoCompra/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FycmluaG9Db21wcmFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
