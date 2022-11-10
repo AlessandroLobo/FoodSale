@@ -2,6 +2,7 @@
 using LanchesMac.Models;
 using LanchesMac.Repositories;
 using LanchesMac.Repositories.Interfaces;
+using LanchesMac.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.FileSystemGlobbing.Internal.Patterns;
@@ -45,6 +46,9 @@ namespace LanchesMac
             services.AddTransient<ILancheRepository, LancheRepository>();
             services.AddTransient<ICategoriaRepository, CategoriaRepository>();
             services.AddTransient<IPedidoRepository, PedidoRepository>();
+            services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
+
+
             // Relacionado ao cash
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
@@ -58,7 +62,7 @@ namespace LanchesMac
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ISeedUserRoleInitial seedUserRoleInitial)
         {
             if (env.IsDevelopment())
             {
@@ -74,6 +78,12 @@ namespace LanchesMac
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            // Cria os perfis
+            seedUserRoleInitial.SeedRoles();
+
+            // Cria os usuários e atributos ao perfil
+            seedUserRoleInitial.SeedUsers();
 
             //Habilitando cash
             app.UseSession();
