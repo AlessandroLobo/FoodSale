@@ -48,6 +48,15 @@ namespace LanchesMac
             services.AddTransient<IPedidoRepository, PedidoRepository>();
             services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
 
+            services.AddAuthorization(options =>
+            {
+                options.AddPolicy("Admin",
+                    politica =>
+                    {
+                        politica.RequireRole("Admin");
+
+                    });
+            });
 
             // Relacionado ao cash
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();

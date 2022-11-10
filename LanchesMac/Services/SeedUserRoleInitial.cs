@@ -51,11 +51,11 @@ namespace LanchesMac.Services
                     _userManager.AddToRoleAsync(user, "Member").Wait();
                 }
             }
-            if (_userManager.FindByEmailAsync("admim@localhost").Result == null)
+            if (_userManager.FindByEmailAsync("admin@localhost").Result == null)
             {
                 IdentityUser user = new IdentityUser();
-                user.UserName = "admim@localhost";
-                user.Email = "admim@localhost";
+                user.UserName = "admin@localhost";
+                user.Email = "admin@localhost";
                 user.NormalizedUserName = "ADMIN@LOCALHOST";
                 user.NormalizedEmail = "ADMIN@LOCALHOST";
                 user.EmailConfirmed = true;
@@ -66,7 +66,7 @@ namespace LanchesMac.Services
 
                 if (result.Succeeded)
                 {
-                    _userManager.AddToRoleAsync(user, "Admim").Wait();
+                    _userManager.AddToRoleAsync(user, "Admin").Wait();
                 }
             }
         }

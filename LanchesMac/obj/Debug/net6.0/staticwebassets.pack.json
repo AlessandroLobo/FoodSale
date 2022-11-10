@@ -133,6 +133,10 @@
       "PackagePath": "staticwebassets\\images\\login_48.png"
     },
     {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\images\\negado1.jpg",
+      "PackagePath": "staticwebassets\\images\\negado1.jpg"
+    },
+    {
       "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\images\\phone-app-icon.png",
       "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
     },

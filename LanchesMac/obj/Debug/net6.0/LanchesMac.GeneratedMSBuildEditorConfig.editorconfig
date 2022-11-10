@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac
 build_property._RazorSourceGeneratorDebug = 
 
+[F:/PROGRAMAÇÃO/Curso Udemy/Curso_ASP.NET6_CoreMVC/LanchesMac/LanchesMac/Areas/Admin/Views/AdminCategorias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXRlZ29yaWFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/PROGRAMAÇÃO/Curso Udemy/Curso_ASP.NET6_CoreMVC/LanchesMac/LanchesMac/Areas/Admin/Views/AdminCategorias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXRlZ29yaWFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/PROGRAMAÇÃO/Curso Udemy/Curso_ASP.NET6_CoreMVC/LanchesMac/LanchesMac/Areas/Admin/Views/AdminCategorias/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXRlZ29yaWFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/PROGRAMAÇÃO/Curso Udemy/Curso_ASP.NET6_CoreMVC/LanchesMac/LanchesMac/Areas/Admin/Views/AdminCategorias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXRlZ29yaWFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/PROGRAMAÇÃO/Curso Udemy/Curso_ASP.NET6_CoreMVC/LanchesMac/LanchesMac/Areas/Admin/Views/AdminCategorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXRlZ29yaWFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/PROGRAMAÇÃO/Curso Udemy/Curso_ASP.NET6_CoreMVC/LanchesMac/LanchesMac/Areas/Admin/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -30,6 +50,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [F:/PROGRAMAÇÃO/Curso Udemy/Curso_ASP.NET6_CoreMVC/LanchesMac/LanchesMac/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/PROGRAMAÇÃO/Curso Udemy/Curso_ASP.NET6_CoreMVC/LanchesMac/LanchesMac/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/PROGRAMAÇÃO/Curso Udemy/Curso_ASP.NET6_CoreMVC/LanchesMac/LanchesMac/Views/Account/Login.cshtml]
