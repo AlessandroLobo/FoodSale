@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RkqSXCUvfrsnn05cgf5cpiQBDBL5IBk9var3Bi1oC5k=",
+  "Hash": "fvFBkSXMFHOndO5lWN3dby8p5tpBw680QbrKtIb2ZIs=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -627,6 +627,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\negado1.jpg"
+    },
+    {
+      "Identity": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\images\\pexels-polina-kovaleva-5645037.mp4",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/pexels-polina-kovaleva-5645037.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pexels-polina-kovaleva-5645037.mp4"
+    },
+    {
+      "Identity": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\images\\pexels-rodnae-productions-8523306.mp4",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/pexels-rodnae-productions-8523306.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pexels-rodnae-productions-8523306.mp4"
     },
     {
       "Identity": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\images\\pexels-thirdman-6955621.mp4",

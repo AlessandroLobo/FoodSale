@@ -6,6 +6,7 @@ using LanchesMac.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.FileSystemGlobbing.Internal.Patterns;
+using ReflectionIT.Mvc.Paging;
 
 namespace LanchesMac
 {
@@ -64,6 +65,13 @@ namespace LanchesMac
             services.AddScoped(sp => CarrinhoCompra.GetCarrinho(sp));
 
             services.AddControllersWithViews();
+
+            // Configura o pacote ReflectioniT para paginação
+            services.AddPaging(options =>
+            {
+                options.ViewName = "Bootstrap4";
+                options.PageParameterName = "pageindex";
+            });
 
             //Habilitando o cash
             services.AddMemoryCache();

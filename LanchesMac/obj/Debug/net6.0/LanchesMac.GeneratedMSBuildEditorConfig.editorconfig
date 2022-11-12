@@ -12,7 +12,7 @@ build_property.RootNamespace = LanchesMac
 build_property.ProjectDir = F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = F:\PROGRAMAÇÃO\Curso Udemy\Curso_ASP.NET6_CoreMVC\LanchesMac\LanchesMac
 build_property._RazorSourceGeneratorDebug = 
 
@@ -74,6 +74,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [F:/PROGRAMAÇÃO/Curso Udemy/Curso_ASP.NET6_CoreMVC/LanchesMac/LanchesMac/Areas/Admin/Views/AdminPedidos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QZWRpZG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/PROGRAMAÇÃO/Curso Udemy/Curso_ASP.NET6_CoreMVC/LanchesMac/LanchesMac/Areas/Admin/Views/AdminPedidos/PedidoLanches.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QZWRpZG9zXFBlZGlkb0xhbmNoZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/PROGRAMAÇÃO/Curso Udemy/Curso_ASP.NET6_CoreMVC/LanchesMac/LanchesMac/Areas/Admin/Views/AdminPedidos/PedidoNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QZWRpZG9zXFBlZGlkb05vdEZvdW5kLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/PROGRAMAÇÃO/Curso Udemy/Curso_ASP.NET6_CoreMVC/LanchesMac/LanchesMac/Areas/Admin/Views/Admin/Index.cshtml]

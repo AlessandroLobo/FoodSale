@@ -141,6 +141,14 @@
       "PackagePath": "staticwebassets\\images\\negado1.jpg"
     },
     {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\images\\pexels-polina-kovaleva-5645037.mp4",
+      "PackagePath": "staticwebassets\\images\\pexels-polina-kovaleva-5645037.mp4"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\images\\pexels-rodnae-productions-8523306.mp4",
+      "PackagePath": "staticwebassets\\images\\pexels-rodnae-productions-8523306.mp4"
+    },
+    {
       "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\images\\pexels-thirdman-6955621.mp4",
       "PackagePath": "staticwebassets\\images\\pexels-thirdman-6955621.mp4"
     },
