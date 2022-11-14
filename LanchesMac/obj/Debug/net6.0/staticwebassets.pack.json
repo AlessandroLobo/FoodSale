@@ -169,6 +169,14 @@
       "PackagePath": "staticwebassets\\imagens\\phone-app-icon.png"
     },
     {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\D_NQ_NP_827550-MLA44939180191_022021-O.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\D_NQ_NP_827550-MLA44939180191_022021-O.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\D_NQ_NP_873226-MLU50110654026_052022-O.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\D_NQ_NP_873226-MLU50110654026_052022-O.jpg"
+    },
+    {
       "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\bolo_chocolate1.jpg",
       "PackagePath": "staticwebassets\\imagens\\produtos\\bolo_chocolate1.jpg"
     },

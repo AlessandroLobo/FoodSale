@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VoMPnI7Ctn326rffK++4hj0NHHWhpxdq8EaICmHkJ5s=",
+  "Hash": "7otif9FR7CYWLLzOSKtESoE0zxmiQPhawmHf+0e+wVo=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -848,6 +848,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\produtos\\coca1.jpg"
+    },
+    {
+      "Identity": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\D_NQ_NP_827550-MLA44939180191_022021-O.jpg",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "imagens/produtos/D_NQ_NP_827550-MLA44939180191_022021-O.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\produtos\\D_NQ_NP_827550-MLA44939180191_022021-O.jpg"
+    },
+    {
+      "Identity": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\D_NQ_NP_873226-MLU50110654026_052022-O.jpg",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "imagens/produtos/D_NQ_NP_873226-MLU50110654026_052022-O.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\produtos\\D_NQ_NP_873226-MLU50110654026_052022-O.jpg"
     },
     {
       "Identity": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\guarana1.jpg",
