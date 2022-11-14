@@ -15,6 +15,7 @@
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
             <div class="container">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="~/imagens/logo_lanche2-sfd.png" />
                     LanchesMac
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
@@ -41,12 +42,13 @@
             </div>
         </nav>
 
-
     </header>
+
+
 
     <div class="hero">
         <video class="video-bg" autoplay muted loop>
-            <source src="~/images/pexels-rodnae-productions-8523306.mp4" />
+            <source src="~/imagens/pexels-rodnae-productions-8523306.mp4" />
         </video>
 
         <div class="container">
@@ -55,11 +57,22 @@
             </main>
         </div>
     </div>
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2021 - LanchesMac
-        </div>
-    </footer>
+
+    @*  <div class="row">
+    @foreach (var lanche in Model.LanchesPreferidos)
+    {
+    <partial name="_LanchesResumo" for="@lanche" />
+    }
+    </div>*@
+
+    @* <footer class="border-top footer text-muted">
+    <div class="container">
+    &copy; 2021 - LanchesMac
+    </div>
+    </footer>*@
+
+    <partial name="_Footer" />
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

@@ -1,5 +1,4 @@
 ﻿using LanchesMac.Models;
-using Newtonsoft.Json.Linq;
 
 namespace LanchesMac.ViewModels
 {
