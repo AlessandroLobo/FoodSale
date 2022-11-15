@@ -1,0 +1,509 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\LanchesMac.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LanchesMac.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\Envelope-icon24.png",
+      "PackagePath": "staticwebassets\\imagens\\Envelope-icon24.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\Full-Cart-icon.png",
+      "PackagePath": "staticwebassets\\imagens\\Full-Cart-icon.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\Home-iconred.png",
+      "PackagePath": "staticwebassets\\imagens\\Home-iconred.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\adminarea.jpg",
+      "PackagePath": "staticwebassets\\imagens\\adminarea.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\carousel11.jpg",
+      "PackagePath": "staticwebassets\\imagens\\carousel11.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\carousel12.jpg",
+      "PackagePath": "staticwebassets\\imagens\\carousel12.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\carousel13.jpg",
+      "PackagePath": "staticwebassets\\imagens\\carousel13.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\carousel14.jpg",
+      "PackagePath": "staticwebassets\\imagens\\carousel14.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\carousel15.jpg",
+      "PackagePath": "staticwebassets\\imagens\\carousel15.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\carousel16.jpg",
+      "PackagePath": "staticwebassets\\imagens\\carousel16.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\carousel17.jpg",
+      "PackagePath": "staticwebassets\\imagens\\carousel17.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\cart-5-16.ico",
+      "PackagePath": "staticwebassets\\imagens\\cart-5-16.ico"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\delete.png",
+      "PackagePath": "staticwebassets\\imagens\\delete.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\erro1.png",
+      "PackagePath": "staticwebassets\\imagens\\erro1.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\faleconosco1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\faleconosco1.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\lanchemac2.png",
+      "PackagePath": "staticwebassets\\imagens\\lanchemac2.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\lanchevegano1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\lanchevegano1.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\leiaute\\icons8-caixa-de-selecção-seleccionada-2-48.png",
+      "PackagePath": "staticwebassets\\imagens\\leiaute\\icons8-caixa-de-selecção-seleccionada-2-48.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\leiaute\\icons8-comida-fast-food-street-food-18-50.png",
+      "PackagePath": "staticwebassets\\imagens\\leiaute\\icons8-comida-fast-food-street-food-18-50.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\leiaute\\icons8-comida-natural-50.png",
+      "PackagePath": "staticwebassets\\imagens\\leiaute\\icons8-comida-natural-50.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\leiaute\\icons8-comida-natural-80.png",
+      "PackagePath": "staticwebassets\\imagens\\leiaute\\icons8-comida-natural-80.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\leiaute\\icons8-desconto-48.png",
+      "PackagePath": "staticwebassets\\imagens\\leiaute\\icons8-desconto-48.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\leiaute\\icons8-email-open-50.png",
+      "PackagePath": "staticwebassets\\imagens\\leiaute\\icons8-email-open-50.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\leiaute\\icons8-get-dressed-32.png",
+      "PackagePath": "staticwebassets\\imagens\\leiaute\\icons8-get-dressed-32.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\leiaute\\icons8-get-dressed-50.png",
+      "PackagePath": "staticwebassets\\imagens\\leiaute\\icons8-get-dressed-50.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\leiaute\\icons8-hamburger-32.png",
+      "PackagePath": "staticwebassets\\imagens\\leiaute\\icons8-hamburger-32.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\leiaute\\icons8-hamburger-58.png",
+      "PackagePath": "staticwebassets\\imagens\\leiaute\\icons8-hamburger-58.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\leiaute\\icons8-love-50.png",
+      "PackagePath": "staticwebassets\\imagens\\leiaute\\icons8-love-50.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\leiaute\\icons8-speaker-phone-50.png",
+      "PackagePath": "staticwebassets\\imagens\\leiaute\\icons8-speaker-phone-50.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\login1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\login1.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\login_48.png",
+      "PackagePath": "staticwebassets\\imagens\\login_48.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\logo_lanche2-sfd.png",
+      "PackagePath": "staticwebassets\\imagens\\logo_lanche2-sfd.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\logo_lanche2.jpg",
+      "PackagePath": "staticwebassets\\imagens\\logo_lanche2.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\negado1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\negado1.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\pexels-polina-kovaleva-5645037.mp4",
+      "PackagePath": "staticwebassets\\imagens\\pexels-polina-kovaleva-5645037.mp4"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\pexels-rodnae-productions-8523306.mp4",
+      "PackagePath": "staticwebassets\\imagens\\pexels-rodnae-productions-8523306.mp4"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\pexels-thirdman-6955621.mp4",
+      "PackagePath": "staticwebassets\\imagens\\pexels-thirdman-6955621.mp4"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\phone-app-icon.png",
+      "PackagePath": "staticwebassets\\imagens\\phone-app-icon.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\D_NQ_NP_827550-MLA44939180191_022021-O.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\D_NQ_NP_827550-MLA44939180191_022021-O.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\D_NQ_NP_873226-MLU50110654026_052022-O.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\D_NQ_NP_873226-MLU50110654026_052022-O.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\bolo_chocolate1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\bolo_chocolate1.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\cachorroquente1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\cachorroquente1.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\cheeseburger1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\cheeseburger1.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\cheesesalada1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\cheesesalada1.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\citrus1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\citrus1.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\coca1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\coca1.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\guarana1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\guarana1.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\lanche_natural1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\lanche_natural1.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\lanchenatural.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\lanchenatural.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\lanchenatural_peitoperu.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\lanchenatural_peitoperu.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\mistoquente4.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\mistoquente4.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\pudim_leite1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\pudim_leite1.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\produtos\\pudim_leite3.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produtos\\pudim_leite3.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\registro1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\registro1.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\remove.ico",
+      "PackagePath": "staticwebassets\\imagens\\remove.ico"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\transp1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\transp1.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\upload2.png",
+      "PackagePath": "staticwebassets\\imagens\\upload2.png"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\visualizar1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\visualizar1.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\woman-yoga-50mm-Nikon-yogi-strong-947197-wallhere.com.jpg",
+      "PackagePath": "staticwebassets\\imagens\\woman-yoga-50mm-Nikon-yogi-strong-947197-wallhere.com.jpg"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\PROGRAMAÇÃO\\Curso Udemy\\Curso_ASP.NET6_CoreMVC\\LanchesMac\\LanchesMac\\wwwroot\\reports\\lanchesCategoria.frx",
+      "PackagePath": "staticwebassets\\reports\\lanchesCategoria.frx"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.LanchesMac.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.LanchesMac.props",
+      "PackagePath": "build\\LanchesMac.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LanchesMac.props",
+      "PackagePath": "buildMultiTargeting\\LanchesMac.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.LanchesMac.props",
+      "PackagePath": "buildTransitive\\LanchesMac.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,4 +1,5 @@
 
+using FastReport.Data;
 using LanchesMac.Areas.Admin.Servicos;
 using LanchesMac.Context;
 using LanchesMac.Models;
@@ -11,6 +12,9 @@ using ReflectionIT.Mvc.Paging;
 using System.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
+
+
+FastReport.Utils.RegisteredObjects.AddConnection(typeof(MsSqlDataConnection));
 
 builder.Services.AddDbContext<AppDbContext>(options => options
                .UseSqlServer(builder.Configuration
@@ -41,6 +45,7 @@ builder.Services.AddTransient<IPedidoRepository, PedidoRepository>();
 builder.Services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
 builder.Services.AddScoped<RelatorioVendasService>();
 builder.Services.AddScoped<GraficoVendasService>();
+builder.Services.AddScoped<RelatorioLanchesService>();
 
 builder.Services.AddAuthorization(options =>
 {
@@ -85,7 +90,7 @@ else
 }
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
+app.UseFastReport();
 app.UseRouting();
 
 CriaPerfisUsuarios(app);
